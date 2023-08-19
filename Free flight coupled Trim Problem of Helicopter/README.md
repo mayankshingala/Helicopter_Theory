@@ -1,4 +1,4 @@
-Programmed a coupled trim solution for the helicopter 
+# Coupled trim solution for the helicopter 
 
 1. Blade flap equation:
    I) Blade hub shear forces and moments in the rotating frame of reference as a function of azimuth ψ.
